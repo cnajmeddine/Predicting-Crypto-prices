@@ -6,3 +6,8 @@ The sequential data is retrieved and prepared in real-time, then trained and tes
 
 
 *Long Short-Term Memory
+
+***
+![Figure_0](https://user-images.githubusercontent.com/109869412/181925392-24c352c5-86f1-4628-9295-d1c3681206cf.png)
+
+    Figure: The visualised end results of the prediction
